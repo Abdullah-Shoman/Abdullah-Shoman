@@ -60,7 +60,6 @@ Full Stack Developer | Backend-Focused (Django & Laravel) | API & E-Commerce Int
 #### Backend
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/>
@@ -90,19 +89,3 @@ Full Stack Developer | Backend-Focused (Django & Laravel) | API & E-Commerce Int
 - Shopify (REST & GraphQL)
 - Magento
 - Lightfunnels
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-shoman&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-shoman&show_icons=true&locale=en" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-shoman" />
-</p>
